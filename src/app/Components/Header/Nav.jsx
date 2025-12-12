@@ -9,96 +9,25 @@ export default function Nav({ setMobileToggle }) {
           Home
         </Link>
       </li>
-      <li className="menu-item-has-children">
-        <Link href="#">Pages</Link>
-        <DropDown>
-          <ul>
-            <li>
-              <Link href="/about" onClick={() => setMobileToggle(false)}>
-                About Us
-              </Link>
-            </li>
-            <li>
-              <Link href="/team" onClick={() => setMobileToggle(false)}>
-                Our Team
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/team/team-details"
-                onClick={() => setMobileToggle(false)}
-              >
-                Team Details
-              </Link>
-            </li>
-            <li>
-              <Link href="/pricing" onClick={() => setMobileToggle(false)}>
-                Pricing
-              </Link>
-            </li>
-            <li>
-              <Link href="/faq" onClick={() => setMobileToggle(false)}>
-                Faq
-              </Link>
-            </li>
-            <li>
-              <Link href="/contact" onClick={() => setMobileToggle(false)}>
-                Contact
-              </Link>
-            </li>
-          </ul>
-        </DropDown>
+      <li>
+        <Link href="/about" onClick={() => setMobileToggle(false)}>
+          About Us
+        </Link>
       </li>
-
-      <li className="menu-item-has-children">
+      <li>
+        <Link href="/team" onClick={() => setMobileToggle(false)}>
+          Our Team
+        </Link>
+      </li>
+      <li>
+        <Link href="/pricing" onClick={() => setMobileToggle(false)}>
+          Pricing
+        </Link>
+      </li>
+      <li>
         <Link href="/project" onClick={() => setMobileToggle(false)}>
           Project
         </Link>
-        <DropDown>
-          <ul>
-            <li>
-              <Link href="/project" onClick={() => setMobileToggle(false)}>
-                Project 1
-              </Link>
-            </li>
-            <li>
-              <Link href="/project2" onClick={() => setMobileToggle(false)}>
-                Project 2
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/project/project-details"
-                onClick={() => setMobileToggle(false)}
-              >
-                Project Details
-              </Link>
-            </li>
-          </ul>
-        </DropDown>
-      </li>
-
-      <li className="menu-item-has-children">
-        <Link href="/service" onClick={() => setMobileToggle(false)}>
-          Services
-        </Link>
-        <DropDown>
-          <ul>
-            <li>
-              <Link href="/service" onClick={() => setMobileToggle(false)}>
-                Services
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/service/service-details"
-                onClick={() => setMobileToggle(false)}
-              >
-                Service Details
-              </Link>
-            </li>
-          </ul>
-        </DropDown>
       </li>
       <li>
         <Link href="/blog" onClick={() => setMobileToggle(false)}>

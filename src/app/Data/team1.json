@@ -1,56 +1,29 @@
 [
   {
-    "img": "/assets/images/team/teamThumb1_1.jpg",  
-    "title": "Masirul Islam",
-    "desc": "co-Founder",
+    "img": "/assets/images/team/fadhilmuhammad.jpeg",
+    "title": "Fadhil Muhammad",
+    "desc": "Software Engineer",
     "facebook": "#",
     "twitter": "#",
-    "linkedin": "#",
+    "linkedin": "https://www.linkedin.com/in/suryadisimanungkalit/",
     "pinterest": "#"
   },
   {
-    "img": "/assets/images/team/teamThumb1_2.jpg",  
-    "title": "Tonya Martin",
-    "desc": "co-Founder",
+    "img": "/assets/images/team/suryadisimanungkalit.jpeg",
+    "title": "Suryadi Simanungkalit",
+    "desc": "Software Engineer",
     "facebook": "#",
     "twitter": "#",
-    "linkedin": "#",
+    "linkedin": "https://www.linkedin.com/in/fadhil-muhammad79/",
     "pinterest": "#"
   },
   {
-    "img": "/assets/images/team/teamThumb1_3.jpg",  
-    "title": "Stephan Bullok",
-    "desc": "co-Founder",
+    "img": "/assets/images/team/muhammadsyahputra.jpeg",
+    "title": "Muhammad Syahputra",
+    "desc": "Software Engineer",
     "facebook": "#",
     "twitter": "#",
-    "linkedin": "#",
+    "linkedin": "https://www.linkedin.com/in/mhmmdsyahputra/",
     "pinterest": "#"
-  },  
-  {
-    "img": "/assets/images/team/teamThumb1_4.jpg",  
-    "title": "Dianne Russell",
-    "desc": "co-Founder",
-    "facebook": "#",
-    "twitter": "#",
-    "linkedin": "#",
-    "pinterest": "#"
-  },
-  {
-    "img": "/assets/images/team/teamThumb1_5.jpg",  
-    "title": "Annette Black",
-    "desc": "co-Founder",
-    "facebook": "#",
-    "twitter": "#",
-    "linkedin": "#",
-    "pinterest": "#"
-  },  
-  {
-    "img": "/assets/images/team/teamThumb1_6.jpg",  
-    "title": "Jacob Jones",
-    "desc": "co-Founder",
-    "facebook": "#",
-    "twitter": "#",
-    "linkedin": "#",
-    "pinterest": "#"
-  }  
+  }
 ]
