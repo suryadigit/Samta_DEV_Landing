@@ -12,6 +12,7 @@ import Feature2 from "../Components/Feature/Feature2";
 import Pricing1 from "../Components/Pricing/Pricing1";
 import Cta1 from "../Components/Cta/Cta1";
 import Blog1 from "../Components/Blog/Blog1";
+import About4 from "../Components/About/About4";
 
 const page = () => {
   return (
@@ -32,7 +33,7 @@ const page = () => {
         img="/assets/images/intro/introThumb1_1.png"
       />
       <Brand1></Brand1>
-      <About1
+      <About4
         img1="/assets/images/about/aboutThumb1_1.png"
         img2="/assets/images/about/aboutThumb1_2.png"
         subtitle="Tentang Samta Dev"
