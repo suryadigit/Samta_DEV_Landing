@@ -7,7 +7,7 @@ const Pricing1 = () => {
   const [isActive, setIsActive] = useState("monthly");
 
   return (
-    <section className="pricing-section section-padding pt-0 fix">
+    <section className="pricing-section section-padding pt-4 fix">
       <div className="container">
         <div className="section-title text-center mxw-685 mx-auto">
           <div className="subtitle">

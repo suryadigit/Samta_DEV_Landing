@@ -11,7 +11,7 @@ const page = () => {
     <div>
       <BreadCumb
         bgimg="/assets/images/bg/breadcumgBg.png"
-        Title="About Us"
+        Title="Tentang Kami"
       ></BreadCumb>
       <About4
         img1="/assets/images/about/aboutThumb1_1.png"
